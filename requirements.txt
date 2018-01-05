@@ -1,6 +1,6 @@
 discord.py
 discord.ext.commands  import Bot
 discord.ext import commands
-import asyncio
-import time
-import random
+asyncio
+time
+random
