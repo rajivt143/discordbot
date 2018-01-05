@@ -1,6 +1,4 @@
 discord.py
-discord.ext.commands
-discord.ext
 asyncio
 time
 random
